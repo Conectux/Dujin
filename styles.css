@@ -8,6 +8,10 @@
 	.logo {
 		max-width: 250px !important;
 	}
+
+	.card {
+		width: 400px !important;
+	}
 }
 
 body {
